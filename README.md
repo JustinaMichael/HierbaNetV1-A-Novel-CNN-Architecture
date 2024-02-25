@@ -15,7 +15,10 @@ Fig 2: HierbaNetV1 - Block I
 Gig 3: HierbaNetV1 - Block II
 
 ## Patent 
-This work is patented under the Indian Patent Act and is part of our research work.
+'HierbaNetV1' architecture is patented under the Indian Patent Act and is part of our research work.
+
+## Licence
+'HierbaNetV1_Sorghum_Weed_Classifier' software is licensed under the APACHE LICENSE, VERSION 2.0.
 
 ## Citation 
 Please give credit to the "HierbaNetV1" architecture if you find it useful and utilize it in your work by citing 
