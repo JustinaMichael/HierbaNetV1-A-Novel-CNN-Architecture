@@ -1,3 +1,5 @@
+[![Reproducible Capsule](https://img.shields.io/static/v1?label=&message=code+ocean&color=blue)](https://codeocean.com/capsule/5579071/tree/v1)
+
 # HierbaNetV1_Sorghum_Weed_Classifier
 'HierbaNetV1_Sorghum_Weed_Classifier' is an artificial intelligence (AI) based software that can differentiate a sorghum sampling image from its associated weeds images. This model is built on 'HierbaNetV1' - a novel Convolutional Neural Network (CNN) architecture. The working of the architecture is detailed in the video article published in 'Science Talks' - Elsevier journal, which can be accessed via the URL https://www.sciencedirect.com/science/article/pii/S2772569324000240
 
